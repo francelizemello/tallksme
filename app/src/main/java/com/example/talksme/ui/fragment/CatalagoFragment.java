@@ -85,7 +85,6 @@ public class CatalagoFragment extends Fragment implements RecyclerViewOnClickLis
         _rvCatalago.setAdapter(adapter);
     }
 
-
     @Override
     public void onClickListener(View view, int position, Object item) {
 
