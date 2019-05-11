@@ -6,6 +6,7 @@ public class Frase {
     private  int idPersonagem;
     private  String descricao;
 
+
     public Frase() {
         this.id = 0;
         this.idSerie = 0;
